@@ -1,2 +1,2 @@
 # Flexbox
-one flexbox exemple 
+one flexbox example 
